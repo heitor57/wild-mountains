@@ -1,5 +1,5 @@
 # wild-mountains
-:mountain: Wild mountains 3D scene, powered by Unity3D, is composed of the following main features:
+:mountain: wild-mountains is a 3D scene, powered by Unity3D, composed of the following main features:
 
 - :man: Player: first-person character with :flashlight: flashlight;
 - :seedling: Biome: :mountain: mountain and :evergreen_tree: jungle with several plants;
